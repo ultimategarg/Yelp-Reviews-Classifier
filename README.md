@@ -16,10 +16,10 @@
    `import nltk`<br/>
    `nltk.download('stopwords')`
 - NLP:
-  - What is Tokenization
-  - What is Stemming
-  - What is Lemmatization
-  - What is Stopwords
+  - Tokenization
+  - Stemming
+  - Lemmatization
+  - Stopwords
   - **term frequency(tf)**=[(no of frequency of a word in a sentence)/(total no of words in sentense)]
 
   - **IDF**=log[(no of sentenes)/(no of sentenses containing words)]
